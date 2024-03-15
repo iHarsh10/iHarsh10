@@ -1,6 +1,4 @@
 
-![code](https://github.com/iHarsh10/iHarsh10/assets/114882433/a4f17a69-9696-44b1-80c2-008225348c99)
-
 <h1 align="center">Hi 👋, I'm Harshvardhan Chandrakar</h1>
 <h3 align="center">A FULL STACK WEB DEVELOPER.</h3>
 
